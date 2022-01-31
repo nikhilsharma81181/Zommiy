@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "93238768130",
+    "project_id": "foodla-app",
+    "storage_bucket": "foodla-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93238768130:android:c76532947b5b82f3ff6d1b",
+        "android_client_info": {
+          "package_name": "com.example.foodla_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93238768130-jg9ersg2t9pvla14iit6d162dqpb3ir5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodla_admin",
+            "certificate_hash": "9b582d8737f16f367e8e3b6e09d69d43edd4f8ed"
+          }
+        },
+        {
+          "client_id": "93238768130-ft2un6lelto8v1vgiac122io8j5o447c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbcWJdnssK2iPiRcenn-YdoE4HX4Wbbbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93238768130-ft2un6lelto8v1vgiac122io8j5o447c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93238768130:android:f7029e6e6d05bb08ff6d1b",
+        "android_client_info": {
+          "package_name": "com.example.zommiy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93238768130-msl72otq2hujlcj9pp8d3qt8u4429ve0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zommiy",
+            "certificate_hash": "9b582d8737f16f367e8e3b6e09d69d43edd4f8ed"
+          }
+        },
+        {
+          "client_id": "93238768130-ft2un6lelto8v1vgiac122io8j5o447c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbcWJdnssK2iPiRcenn-YdoE4HX4Wbbbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93238768130-ft2un6lelto8v1vgiac122io8j5o447c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93238768130:android:499920e8c6946489ff6d1b",
+        "android_client_info": {
+          "package_name": "in.foodla.india"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93238768130-o2pkaj63b0asqfrmjljuffknkpuqcvjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.foodla.india",
+            "certificate_hash": "9b582d8737f16f367e8e3b6e09d69d43edd4f8ed"
+          }
+        },
+        {
+          "client_id": "93238768130-ft2un6lelto8v1vgiac122io8j5o447c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbcWJdnssK2iPiRcenn-YdoE4HX4Wbbbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93238768130-ft2un6lelto8v1vgiac122io8j5o447c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

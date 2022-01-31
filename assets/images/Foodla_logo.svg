@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3000" height="2400" viewBox="0 0 3000 2400">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        font-size: 545.833px;
+        filter: url(#filter-2);
+        fill: #ff5c00;
+        font-family: "Bauhaus 93";
+      }
+
+      .cls-3 {
+        font-size: 187.5px;
+        filter: url(#filter-3);
+        font-family: "Franklin Gothic Medium";
+      }
+    </style>
+    <filter id="filter" x="450" y="150" width="2100" height="2100" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#ff5c00"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="698" y="915" width="1603" height="375" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="699" y="1354" width="1572" height="130" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle class="cls-1" cx="1500" cy="1200" r="1050"/>
+  <text id="foodla" class="cls-2" x="669.249" y="1284.25">foodla</text>
+  <text id="food_means_foodla" data-name="food means foodla" class="cls-3" x="698.25" y="1482.25">food means foodla</text>
+</svg>
